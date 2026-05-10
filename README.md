@@ -21,6 +21,6 @@ Download the Program (Download)
 Click here to download the latest version of the program (CH341A_Driver_Installer.exe) 
 
 
-https://github.com/rameres8/CH341X-Drivers-Installer/releases/tag/v1.0
+https://github.com/rameres8/CH341X-Drivers-Installer/releases/tag/1.0
 
 Developed and Designed by: [LiiS8]
