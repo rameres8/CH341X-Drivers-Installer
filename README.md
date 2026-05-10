@@ -20,4 +20,7 @@ Supports Windows 11 and Windows 10, 64-bit.
 Download the Program (Download)
 Click here to download the latest version of the program (CH341A_Driver_Installer.exe) 
 
+
+https://github.com/rameres8/CH341X-Drivers-Installer/releases/tag/v1.0
+
 Developed and Designed by: [LiiS8]
